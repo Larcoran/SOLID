@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDPresentation", "SOLIDPresentation\SOLIDPresentation.csproj", "{B3DA1D16-C605-4BF3-9366-9C0CF3C001CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDPresentation-GoodExamples", "SOLIDPresentation-GoodExamples\SOLIDPresentation-GoodExamples.csproj", "{7D4920CC-B62F-4E3E-9B2C-0E4C17AFED10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3DA1D16-C605-4BF3-9366-9C0CF3C001CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DA1D16-C605-4BF3-9366-9C0CF3C001CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DA1D16-C605-4BF3-9366-9C0CF3C001CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DA1D16-C605-4BF3-9366-9C0CF3C001CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D4920CC-B62F-4E3E-9B2C-0E4C17AFED10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4920CC-B62F-4E3E-9B2C-0E4C17AFED10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4920CC-B62F-4E3E-9B2C-0E4C17AFED10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4920CC-B62F-4E3E-9B2C-0E4C17AFED10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83A9DB95-CF1F-4FC7-97CA-A4EF3B413963}
+	EndGlobalSection
+EndGlobal
